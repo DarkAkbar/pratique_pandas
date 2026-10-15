@@ -1,0 +1,21 @@
+
+[
+  {
+    "id": 1,
+    "nom": "Clavier Mécanique",
+    "prix": 45.0,
+    "stock": 12
+  },
+  {
+    "id": 2,
+    "nom": "Souris Sans Fil",
+    "prix": 25.5,
+    "stock": 30
+  },
+  {
+    "id": 3,
+    "nom": "Écran 24 pouces",
+    "prix": 150.0,
+    "stock": 5
+  }
+]
